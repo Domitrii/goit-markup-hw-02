@@ -129,7 +129,7 @@
   
   
   
-  .character li h3 {
+  .strategy {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -137,7 +137,7 @@
     color: #2e2f42;
   }
   
-  .character li p {
+  .strategy-p {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -152,21 +152,13 @@
     background-color: rgba(244, 244, 253, 1);
   }
   
-  .ourteam-h2 {
+  .ourteam-htwo {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: rgba(46, 47, 66, 1);
-  }
-  
-  .ourteam li h3 {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
   }
   
   .ourteam li p {
